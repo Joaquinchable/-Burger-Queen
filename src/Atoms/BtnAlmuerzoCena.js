@@ -8,12 +8,12 @@ function BtnLunchAndDinner(){
    return(
           <>
 
-           <Link className =" " to = "#">
+           <Link to="/menurestodeldia">
                   
              Almuerzo y Cena 
 
             </Link>
-
+           
 
 
          </>
